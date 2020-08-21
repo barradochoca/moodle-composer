@@ -6,7 +6,7 @@ Manage Moodle LMS and plugins using Composer at a root directory level (example 
 
 ## How use
 
-### Install (only first time)
+### Install (only first time )
 ```
 git clone https://github.com/michaelmeneses/moodle-composer.git myproject  
 cd myproject  
